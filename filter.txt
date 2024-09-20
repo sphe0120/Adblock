@@ -1,4 +1,9 @@
-[Adblock Plus 2.0]
+[Adblock Plus 4.7]
+
+! Title: タイトル
+! Homepage:ホームページ
+! 作成者：
+! 最終更新 
 ||s.yimg.jp/images/auct/salespromotion/2024_9/0909_couponrush/1456_100.png
 ||s.yimg.jp/images/auct/template/myauction/bnr_feature.png
 ||s.yimg.jp/images/premium/takarabako/animation/img_treasureBoxFloating_b.gif
