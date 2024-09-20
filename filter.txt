@@ -1,9 +1,11 @@
-[Adblock Plus 4.7]
-
-! Title: タイトル
-! Homepage:ホームページ
-! 作成者：
-! 最終更新 
+[Adblock Plus 2.0]
+! Title: もちフィルタ（広告ブロック）
+! Last modified: 13 Aug 2024 00:00 JST
+! Expires: 6 hours (update frequency)
+! License: CC0 (Public Domain)
+! Homepage: https://eeii0a5l.github.io/mochifilter_homepage/mochi.html
+! 
+! 
 ||s.yimg.jp/images/auct/salespromotion/2024_9/0909_couponrush/1456_100.png
 ||s.yimg.jp/images/auct/template/myauction/bnr_feature.png
 ||s.yimg.jp/images/premium/takarabako/animation/img_treasureBoxFloating_b.gif
