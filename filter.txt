@@ -47,6 +47,7 @@ radiko.jp##.content.content__top-main-slider.top-main-slider
 keepersecurity.com##.Nvg4b
 keepersecurity.com###footer
 keepersecurity.com##._93PZP.Iw8Rw
+keepersecurity.com##._93PZP
 keepersecurity.com###enterprise-sso-login-button
 keepersecurity.com###keeper-footer
 keepersecurity.com##.dwMQu
