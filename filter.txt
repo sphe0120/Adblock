@@ -54,3 +54,6 @@ zaim.net##.box.home-notification.message-premium
 zaim.net##.box.home-balance
 zaim.net###footer
 calendar.google.com##.Kk7lMc-DWWcKd-OomVLb-haAclf.gboEAb.Kk7lMc-Ia7Qfc-CZjX4e
+drive.google.com##.Kk7lMc-Yb-Il-j.Kk7lMc-Wc-Tn
+secure.freee.co.jp##.sc-fxvKuh.krpNqS
+
