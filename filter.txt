@@ -57,4 +57,6 @@ zaim.net###footer
 calendar.google.com##.Kk7lMc-DWWcKd-OomVLb-haAclf.gboEAb.Kk7lMc-Ia7Qfc-CZjX4e
 drive.google.com##.Kk7lMc-Yb-Il-j.Kk7lMc-Wc-Tn
 secure.freee.co.jp##.sc-fxvKuh.krpNqS
+chatgpt.com##.min-h-4
+chatgpt.com##.group.flex.gap-2.p-2\.5.text-sm.cursor-pointer.focus\:ring-0.radix-disabled\:pointer-events-none.radix-disabled\:opacity-50.items-center.hover\:bg-token-sidebar-surface-secondary.m-0.rounded-lg.px-2
 
