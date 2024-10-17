@@ -59,4 +59,19 @@ drive.google.com##.Kk7lMc-Yb-Il-j.Kk7lMc-Wc-Tn
 secure.freee.co.jp##.sc-fxvKuh.krpNqS
 chatgpt.com##.min-h-4
 chatgpt.com##.group.flex.gap-2.p-2\.5.text-sm.cursor-pointer.focus\:ring-0.radix-disabled\:pointer-events-none.radix-disabled\:opacity-50.items-center.hover\:bg-token-sidebar-surface-secondary.m-0.rounded-lg.px-2
+yomiuri.co.jp##.home-ad-wide-top
+av-wiki.net##.col-sidebar.sidebar
+av-wiki.net##.cat-item.cat-item-4166
+av-wiki.net##.cat-item.cat-item-3461
+av-wiki.net##.cat-item.cat-item-1
+av-wiki.net##.cat-item.cat-item-109721
+av-wiki.net###gnav
+av-wiki.net##.default-nav
+dmm.co.jp##.btn-dsprice02.mg-b12.tx14
+auctions.yahoo.co.jp##.mhdBanner
+auctions.yahoo.co.jp###msthdPrLink
+auctions.yahoo.co.jp##.msthdPrStanby
+auctions.yahoo.co.jp##.Component-sc-8cmw1.eqkLuA
+auctions.yahoo.co.jp##.Component-sc-17fnzlz.eIpOLl
+||s.yimg.jp/images/auct/salespromotion/2015_4/0415_cv/300x060.png
 
