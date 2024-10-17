@@ -103,6 +103,33 @@ javarchive.com##.box_right_exlogo_banner_bit.slick-slide.slick-current.slick-act
 javarchive.com##.tagSearch
 javarchive.com##.box_right_exlogo_banner.slick-initialized.slick-slider
 ||img.javstore.net/images/2021/10/29/FC2PPV-1234771.gif
-
+javarchive.com###datepicker
+javarchive.com##.hasDatepicker
+javarchive.com##.news_section_left
+javarchive.com##.archives
+javarchive.com##a[style="font-size:14px;"]
+javarchive.com##.category_news_left_side
+maddawgjav.net###gotocomments
+av-wiki.net##.blockquote-like
+av-wiki.net##.qaContainer
+av-wiki.net##.baloon-styke
+av-wiki.net##.cat-link
+av-wiki.net##.border-left
+av-wiki.net##.col_4
+av-wiki.net##.share-btn
+av-wiki.net##.comment-cta
+av-wiki.net##.label-btn
+av-wiki.net##.aa
+av-wiki.net##.small
+av-wiki.net##.related.wow.fadeIn
+av-wiki.net##.basic-box
+av-wiki.net##.breadcrumb__inner
+av-wiki.net##.link-btn
+av-wiki.net###commentform
+av-wiki.net##.comment-form
+av-wiki.net###reply-title
+av-wiki.net##.comment-reply-title
+||javarchive.com/assets/top-view-3.gif
+data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
 
 
