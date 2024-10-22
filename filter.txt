@@ -131,5 +131,11 @@ av-wiki.net###reply-title
 av-wiki.net##.comment-reply-title
 ||javarchive.com/assets/top-view-3.gif
 data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+id.kufu.jp##.kufu-notice__summary
+id.kufu.jp##.kufu-term-list
+id.kufu.jp##.kufu-about
+id.kufu.jp##.kufu-paragraph
+id.kufu.jp##.kufu-header
+
 
 
