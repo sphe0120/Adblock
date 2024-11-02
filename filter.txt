@@ -143,5 +143,21 @@ aucpay.yahoo.co.jp##.msgBoxStatus.StatusError
 aucpay.yahoo.co.jp##.detailHelp
 aucpay.yahoo.co.jp###bnr
 aucpay.yahoo.co.jp##.mB30
-
+mail.google.com###lZwQje
+mail.google.com##.gb_he.gb_h.gb_fd.t6
+mail.google.com##.ma
+mail.google.com##.l6
+mail.google.com##.brC-ays
+zaim.net###side
+zaim.net##.col-lg-3.col-sm-4.side-row.col-xs-12
+zaim.net##.EasyInputForm-module__header___1p5Pd
+zaim.net##.balloon
+zaim.net##.statusbar.progress-calculate
+zaim.net##.rest
+zaim.net##.budget-title
+zaim.net##.tooltip-inner
+secure.freee.co.jp##.sc-bSakgD.hRAagI
+||marketing-assets.freee.co.jp/accounting/iframe/summary/promo-banner?accountant=false&accounting_charged=true&bank_accountant=false&bookkeeping_client=false&cid=2008167&ctax_charged=false&external_uid=6426864752&first_payment_date=1910&fy_end_month=2412&fy_first_year=false&has_accountant=false&has_freee_card=false&has_freee_card_unlimited=false&head_count=0&hr_charged=false&industry_code=3&last_payment_date=2010&last_plan_end_date=2010&oem=false&org=personal&plan=starter&role=company_admin&sales_management_charged=false&su_date=1910&tax_advisor=false&trial=false&uid=2337730&yearly=true
+chatgpt.com###radix-\:Riiii4lj5\:
+chatgpt.com##.flex.h-6.w-6.items-center.justify-center.rounded-full.border.border-token-border-light.text-xs.text-token-text-secondary
 
