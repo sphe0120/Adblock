@@ -136,6 +136,12 @@ id.kufu.jp##.kufu-term-list
 id.kufu.jp##.kufu-about
 id.kufu.jp##.kufu-paragraph
 id.kufu.jp##.kufu-header
-
+aucpay.yahoo.co.jp###mhHeadLine
+aucpay.yahoo.co.jp###msthdPrLink
+aucpay.yahoo.co.jp##.msthdPrShpIcon
+aucpay.yahoo.co.jp##.msgBoxStatus.StatusError
+aucpay.yahoo.co.jp##.detailHelp
+aucpay.yahoo.co.jp###bnr
+aucpay.yahoo.co.jp##.mB30
 
 
