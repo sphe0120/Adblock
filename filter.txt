@@ -169,6 +169,16 @@ mail.yahoo.co.jp##.sc-15xqlbk-9.geWNjy
 mail.yahoo.co.jp##.sc-1hiv3zj-0.dbmqLm
 mail.yahoo.co.jp##.n200fz-0.kmjzDX
 mail.yahoo.co.jp##.kf4e1p-0.gegGOi
+calendar.google.com##.erDb5d
+photos.google.com##.JJpMec
+id.kufu.jp##.kufu-button.\--normal.\--with-icon
+khoatoantin.com##.col-12.col-sm-4
+javarchive.com###dsq-app1794
+javarchive.com##iframe[src="https://disqus.com/embed/comments/?base=default&f=javstore-net&t_u=https%3A%2F%2Fjavarchive.com%2F1004984-HNHU-129-%25E7%2599%25BA%25E6%2583%2585%25E5%25B7%25A8%25E4%25B9%25B3Vol.5-pn.html&t_d=HNHU-129%20%E7%99%BA%E6%83%85%E5%B7%A8%E4%B9%B3Vol.5&t_t=HNHU-129%20%E7%99%BA%E6%83%85%E5%B7%A8%E4%B9%B3Vol.5&s_o=default#version=2f004bcca512a26c144adf0de41046de"]
+javarchive.com##.news_newer
+javarchive.com##.aggregateRating
+javarchive.com##.bt_cuoi_pro
+||disqus.com/recommendations/?base=default&f=javstore-net&t_u=https%3A%2F%2Fjavarchive.com%2F1004984-HNHU-129-%25E7%2599%25BA%25E6%2583%2585%25E5%25B7%25A8%25E4%25B9%25B3Vol.5-pn.html&t_d=HNHU-129%20%E7%99%BA%E6%83%85%E5%B7%A8%E4%B9%B3Vol.5&t_t=HNHU-129%20%E7%99%BA%E6%83%85%E5%B7%A8%E4%B9%B3Vol.5#version=693720644816c4206f82be3ca597d7c5
 
 
 
