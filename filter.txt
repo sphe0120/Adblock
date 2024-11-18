@@ -160,4 +160,15 @@ secure.freee.co.jp##.sc-bSakgD.hRAagI
 ||marketing-assets.freee.co.jp/accounting/iframe/summary/promo-banner?accountant=false&accounting_charged=true&bank_accountant=false&bookkeeping_client=false&cid=2008167&ctax_charged=false&external_uid=6426864752&first_payment_date=1910&fy_end_month=2412&fy_first_year=false&has_accountant=false&has_freee_card=false&has_freee_card_unlimited=false&head_count=0&hr_charged=false&industry_code=3&last_payment_date=2010&last_plan_end_date=2010&oem=false&org=personal&plan=starter&role=company_admin&sales_management_charged=false&su_date=1910&tax_advisor=false&trial=false&uid=2337730&yearly=true
 chatgpt.com###radix-\:Riiii4lj5\:
 chatgpt.com##.flex.h-6.w-6.items-center.justify-center.rounded-full.border.border-token-border-light.text-xs.text-token-text-secondary
+mail.yahoo.co.jp##.sc-1xxziom-0.fUqLlU
+mail.yahoo.co.jp##.sc-1sfbtuj-3.htZqOD
+mail.yahoo.co.jp###tagYadsListTop
+mail.yahoo.co.jp##.sc-1sfbtuj-1.hmsTGn
+mail.yahoo.co.jp##.sc-1b9tt3g-11.bcQTnj
+mail.yahoo.co.jp##.sc-15xqlbk-9.geWNjy
+mail.yahoo.co.jp##.sc-1hiv3zj-0.dbmqLm
+mail.yahoo.co.jp##.n200fz-0.kmjzDX
+mail.yahoo.co.jp##.kf4e1p-0.gegGOi
+
+
 
