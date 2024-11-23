@@ -6,6 +6,7 @@
 ! Homepage: https://github.com/sphe0120/
 ! 
 ! 
+radiko.jp/apps/images/img_playerarea_blue_01.png
 radiko.jp##.live-detail__banner
 radiko.jp###footer
 radiko.jp##.footer
