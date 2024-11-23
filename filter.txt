@@ -6,6 +6,16 @@
 ! Homepage: https://github.com/sphe0120/
 ! 
 ! 
+radiko.jp##.live-detail__banner
+radiko.jp###footer
+radiko.jp##.footer
+radiko.jp##.content.content__main
+radiko.jp##.header__nav
+radiko.jp###heading-area-link
+radiko.jp##.heading-area__link02
+radiko.jp##.btn.btn--default.btn--block.btn--share.cboxElement
+radiko.jp##.btn.btn--default.btn--block.btn--tooltip
+||radiko.jp/res/feed/B8R8917CS3_a8lk.jpg
 ||s.yimg.jp/images/auct/salespromotion/2024_9/0909_couponrush/1456_100.png
 ||s.yimg.jp/images/auct/template/myauction/bnr_feature.png
 ||s.yimg.jp/images/premium/takarabako/animation/img_treasureBoxFloating_b.gif
