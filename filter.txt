@@ -190,6 +190,32 @@ javarchive.com##.news_newer
 javarchive.com##.aggregateRating
 javarchive.com##.bt_cuoi_pro
 ||disqus.com/recommendations/?base=default&f=javstore-net&t_u=https%3A%2F%2Fjavarchive.com%2F1004984-HNHU-129-%25E7%2599%25BA%25E6%2583%2585%25E5%25B7%25A8%25E4%25B9%25B3Vol.5-pn.html&t_d=HNHU-129%20%E7%99%BA%E6%83%85%E5%B7%A8%E4%B9%B3Vol.5&t_t=HNHU-129%20%E7%99%BA%E6%83%85%E5%B7%A8%E4%B9%B3Vol.5#version=693720644816c4206f82be3ca597d7c5
+secure.freee.co.jp##.sort_modal_container___StyledDiv-sc-2hzbi9-0.cblTxt
+9db.jp##.plyr__poster
+||1password.com/signin/whats-new/
+my.1password.com##.disclosureButton--Disclosure_RPWmW
+id.kufu.jp##.kufu-title.\--h2
+id.kufu.jp##.id-zaim-button.\--secondary
+id.kufu.jp##.kufu-text-link.\--underline
+amazon.co.jp##.a-section.a-spacing-none.gw-col.gw-fixed-col.gw-card-layout
+odhistory.shopping.yahoo.co.jp##.Masthead__linkBox____20185
+shopping.yahoo.co.jp##.Masthead__linkBox____20185
+shopping.yahoo.co.jp##.PageFrame__footer
+shopping.yahoo.co.jp##.TabControl__items____20185
+shopping.yahoo.co.jp##.TabControl____20185.CategoryNavigation__tabControl____20185
+auctions.yahoo.co.jp##.mhdPcPayPayArea__paypayInfoIcon--button
+auctions.yahoo.co.jp##.Component-sc-1p9cnye.jlyuZr
+auctions.yahoo.co.jp##.l-contentsHead
+auctions.yahoo.co.jp###acWrFooter
+auctions.yahoo.co.jp##.libLinkGrayM
+auctions.yahoo.co.jp##.btSellSelf
+auctions.yahoo.co.jp##.btSellBrand
+auctions.yahoo.co.jp###acMdSSBox
+auctions.yahoo.co.jp###modSsBox
+auctions.yahoo.co.jp##div[style="margin:20px; text-align:center;"]
+my.1password.com##.links
+my.1password.com##.reset_base__1e6d9s10.sprinkles_display_inline_xs__omrdfnf.sprinkles_color_inherit__omrdfn1yj.sprinkles_lineHeight_default__omrdfn23h.sprinkles_fontWeight_bodyDefault__omrdfn236.sprinkles_textAlign_start_xs__omrdfn1p4.text_text__1wf9vowb.text_text_variant_medium__1wf9vowj.sprinkles_wordBreak_inherit__omrdfn22g.text_text_truncate_false__1wf9vowr.knox-reset
+my.1password.com##small[style="display: inline; line-height: 1.5;"]
 
 
 
