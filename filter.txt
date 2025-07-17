@@ -218,5 +218,13 @@ my.1password.com##.links
 my.1password.com##.reset_base__1e6d9s10.sprinkles_display_inline_xs__omrdfnf.sprinkles_color_inherit__omrdfn1yj.sprinkles_lineHeight_default__omrdfn23h.sprinkles_fontWeight_bodyDefault__omrdfn236.sprinkles_textAlign_start_xs__omrdfn1p4.text_text__1wf9vowb.text_text_variant_medium__1wf9vowj.sprinkles_wordBreak_inherit__omrdfn22g.text_text_truncate_false__1wf9vowr.knox-reset
 my.1password.com##small[style="display: inline; line-height: 1.5;"]
 
+||marketing-assets.freee.co.jp/accounts/iframe/login/promo-banner?service_name=accounting
+accounts.secure.freee.co.jp##.vb-footer.vb-footer--widthNarrow
+accounts.secure.freee.co.jp##.vb-sectionTitle.vb-sectionTitle--responsive.vb-sectionTitle--alignCenter.vb-mb200
+accounts.secure.freee.co.jp##.vb-button.vb-button--appearanceSecondary.vb-button--large.vb-button--leftIcon.vb-button--widthFull
+accounts.secure.freee.co.jp##.vb-button.vb-button--appearanceTertiary
+accounts.secure.freee.co.jp##hr[style="background-color: rgb(225, 220, 220); height: 1px; border: 0px;"]
+accounts.secure.freee.co.jp##.vb-inlineLink
+
 
 
