@@ -226,5 +226,15 @@ accounts.secure.freee.co.jp##.vb-button.vb-button--appearanceTertiary
 accounts.secure.freee.co.jp##hr[style="background-color: rgb(225, 220, 220); height: 1px; border: 0px;"]
 accounts.secure.freee.co.jp##.vb-inlineLink
 
+9db.jp###right
+aucpay.yahoo.co.jp##.cm-Footer.cm-Footer--pc.cm-Footer--card
+my.1password.com##.reset_base__1e6d9s10.sprinkles_color_neutral__omrdfn1xu.sprinkles_fontWeight_bodyDefault__omrdfn236.sprinkles_textAlign_start_xs__omrdfn1p4.sprinkles_lineHeight_paragraph__omrdfn23k.text_text__1wf9vowb.text_text_variant_small__1wf9vowi.sprinkles_wordBreak_inherit__omrdfn22g.text_text_truncate_false__1wf9vows.knox-reset
+my.1password.com##.reset_base__1e6d9s10.sprinkles_display_inline_xs__omrdfnf.sprinkles_color_inherit__omrdfn1yj.sprinkles_fontWeight_bodyDefault__omrdfn236.sprinkles_textAlign_start_xs__omrdfn1p4.sprinkles_lineHeight_default__omrdfn23h.text_text__1wf9vowb.text_text_variant_medium__1wf9vowj.sprinkles_wordBreak_inherit__omrdfn22g.text_text_truncate_false__1wf9vows.knox-reset
+id.kufu.jp##.kufu-text-link.\--external
+id.kufu.jp##.kufu-footer__flex-wrapper
+my.1password.com##.whats-new-frame--doors_FC7am.loading--doors_juuqF
+my.1password.com##.reset_base__1e6d9s10.sprinkles_color_neutral__omrdfn2b1.sprinkles_fontWeight_bodyDefault__omrdfn2gd.sprinkles_textAlign_start_xs__omrdfn21c.sprinkles_lineHeight_paragraph__omrdfn2gr.text_text__1wf9vowb.text_text_variant_small__1wf9vowi.sprinkles_wordBreak_inherit__omrdfn2fn.text_text_truncate_false__1wf9vows.knox-reset
+my.1password.com##.reset_base__1e6d9s10.sprinkles_display_inline_xs__omrdfni.sprinkles_color_inherit__omrdfn2bq.sprinkles_fontWeight_bodyDefault__omrdfn2gd.sprinkles_textAlign_start_xs__omrdfn21c.sprinkles_lineHeight_default__omrdfn2go.text_text__1wf9vowb.text_text_variant_medium__1wf9vowj.sprinkles_wordBreak_inherit__omrdfn2fn.text_text_truncate_false__1wf9vows.knox-reset
+
 
 
