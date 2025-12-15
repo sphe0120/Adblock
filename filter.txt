@@ -240,4 +240,23 @@ id.kufu.jp##.kufu-text-link.\--external
 id.kufu.jp##.kufu-button.\--zaim.\--secondary
 id.kufu.jp##.kufu-footer__flex-wrapper
 
+deepl.com##.relative.hidden.lg\:flex
+deepl.com##.py-redesign-8.lg\:py-redesign-9
+deepl.com##.ctaSection-module--ctaSection--7d7ea
+deepl.com###juu0jui4jtk2juu3jtk1jthdjuu0jui4jufejuuzjtgxjuffmg\=\=ma\=\=juu0jui4jtg3juu3jue0jujfjuu0jujcjue1juu0jui4jthbjuuzjtgxjuffjuu0jujdjtgxjuu2jue1jufejuuzjtgxjthdjuu0jujgjuexjuu5juewjujdjuuzjtgxjtk5juuzjtgyjthcdeepl
+deepl.com##.font-medium.tracking-\[-0\.025rem\].text-gray-900.md\:text-md.xs\:text-base.mb-0.flex.justify-center.py-4.text-base.md\:py-8
+||deepl.com/img/home-experience/logo-cloud/24.png
+deepl.com##.flex.h-24.items-center.md\:h-28
+deepl.com##.flex.flex-1.lg\:justify-end
+deepl.com##.h-40.flex-1.lg\:flex.lg\:h-auto.lg\:w-full.lg\:items-center
+deepl.com##.mobile\:hidden.flex.items-center.justify-between
+maddawgjav.net##.wp-block-image
+maddawgjav.net###footer
+v8-4.foldingathome.org##.unit-header.unit-status.unit-center
+v8-4.foldingathome.org##.unit-header.unit-progress.unit-left
+v8-4.foldingathome.org##.unit-header.unit-ppd.unit-right
+v8-4.foldingathome.org##.unit-header.unit-cpus.unit-right
+v8-4.foldingathome.org##.unit-header.unit-gpus.unit-right
+v8-4.foldingathome.org##.unit-header.unit-gpus-text.unit-right
+v8-4.foldingathome.org##.unit-header.unit-actions
 
