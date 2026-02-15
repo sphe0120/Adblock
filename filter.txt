@@ -260,3 +260,11 @@ v8-4.foldingathome.org##.unit-header.unit-gpus.unit-right
 v8-4.foldingathome.org##.unit-header.unit-gpus-text.unit-right
 v8-4.foldingathome.org##.unit-header.unit-actions
 
+evoto.ai##.features-hero-info
+evoto.ai##.buy-button
+evoto.ai##.feedback
+evoto.ai##.features-container-content
+evoto.ai##.common-container.enjoy-content
+evoto.ai##.faqs-area.faq-section
+evoto.ai##.common-container
+
