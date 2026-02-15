@@ -1,4 +1,5 @@
 [Adblock Plus 2.0]
+
 ! Title: sphe0120
 ! Last modified: 13 Aug 2024 00:00 JST
 ! Expires: 6 hours (update frequency)
