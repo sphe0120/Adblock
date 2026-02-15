@@ -261,3 +261,16 @@ v8-4.foldingathome.org##.unit-header.unit-gpus.unit-right
 v8-4.foldingathome.org##.unit-header.unit-gpus-text.unit-right
 v8-4.foldingathome.org##.unit-header.unit-actions
 
+||zaim.net/assets/common/premium_banner_pc-a36f01e4bec796c26b94a5b4ffdf357cd7222c25f119935d47815ec8c3aafe13.png
+||marketing-assets.freee.co.jp/accounting/iframe/summary/promo-banner?accounting_charged=true&accounting_trial_days_left=0&cid=2008167&contract_type=evergreen&external_uid=6426864752&first_payment_date=1910&fy_end_month=2512&head_count=0&industry_code=3&last_payment_date=2010&last_plan_end_date=2010&org=personal&plan=starter&role=company_admin&su_date=1910&uid=2337730&yearly=true
+evoto.ai##.buy-button
+evoto.ai##.feedback
+evoto.ai##.desc
+evoto.ai##.features-container-content
+evoto.ai##.fade-in-container.animation
+evoto.ai##.fade-in-background.box
+evoto.ai##.common-container.enjoy-content
+evoto.ai##.faqs-area.faq-section
+evoto.ai##.footer-page.site-footer
+
+
