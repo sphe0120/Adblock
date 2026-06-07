@@ -33,6 +33,7 @@
 9db.jp##.wiki_hint.wiki_lh12
 9db.jp##.wiki_m
 9db.jp##.wiki_t_blue
+ao-system.net##.usage
 accounts.secure.freee.co.jp##.vb-button.vb-button--appearanceSecondary.vb-button--large.vb-button--leftIcon.vb-button--widthFull
 accounts.secure.freee.co.jp##.vb-button.vb-button--appearanceTertiary
 accounts.secure.freee.co.jp##.vb-footer.vb-footer--widthNarrow
