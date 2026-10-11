@@ -114,7 +114,6 @@ chatgpt.com###radix-\:Riiii4lj5\:
 chatgpt.com##.flex.h-6.w-6.items-center.justify-center.rounded-full.border.border-token-border-light.text-xs.text-token-text-secondary
 chatgpt.com##.group.flex.gap-2.p-2\.5.text-sm.cursor-pointer.focus\:ring-0.radix-disabled\:pointer-events-none.radix-disabled\:opacity-50.items-center.hover\:bg-token-sidebar-surface-secondary.m-0.rounded-lg.px-2
 chatgpt.com##.min-h-4
-data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
 deepl.com###juu0jui4jtk2juu3jtk1jthdjuu0jui4jufejuuzjtgxjuffmg\=\=ma\=\=juu0jui4jtg3juu3jue0jujfjuu0jujcjue1juu0jui4jthbjuuzjtgxjuffjuu0jujdjtgxjuu2jue1jufejuuzjtgxjthdjuu0jujgjuexjuu5juewjujdjuuzjtgxjtk5juuzjtgyjthcdeepl
 deepl.com##.ctaSection-module--ctaSection--7d7ea
 deepl.com##.flex.flex-1.lg\:justify-end
