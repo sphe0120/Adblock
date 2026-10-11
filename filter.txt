@@ -1,3 +1,12 @@
+[Adblock Plus 2.0]
+
+! Title: sphe0120
+! Last modified: 13 Aug 2024 00:00 JST
+! Expires: 6 hours (update frequency)
+! License: CC0 (Public Domain)
+! Homepage: https://github.com/sphe0120/
+!
+!
 @@||invoice.secure.freee.co.jp/reports/invoices/$document
 ||1password.com/signin/whats-new/
 ||deepl.com/img/home-experience/logo-cloud/24.png
@@ -276,3 +285,8 @@ zaim.net##.rest
 zaim.net##.statusbar.progress-calculate
 zaim.net##.tooltip-inner
 zaimu-kaikei.kosen-k.go.jp##.footer
+
+
+
+
+
