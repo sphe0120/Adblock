@@ -284,3 +284,22 @@ zaim.net##.rest
 zaim.net##.statusbar.progress-calculate
 zaim.net##.tooltip-inner
 zaimu-kaikei.kosen-k.go.jp##.footer
+
+
+my.1password.com##.reset_base__1e6d9s10.sprinkles_color_neutral__omrdfn2b4.sprinkles_fontWeight_bodyDefault__omrdfn2hb.sprinkles_textAlign_start_xs__omrdfn21c.sprinkles_lineHeight_paragraph__omrdfn2hp.text_text__1wf9vowb.text_text_variant_small__1wf9vowi.text_text_bold_false__1wf9vowm.text_text_italic_false__1wf9vowo.sprinkles_wordBreak_inherit__omrdfn2gl.text_text_truncate_false__1wf9vowu.knox-reset
+my.1password.com##.reset_base__1e6d9s10.sprinkles_display_inline_xs__omrdfni.sprinkles_color_inherit__omrdfn2bz.sprinkles_fontWeight_bodyDefault__omrdfn2hb.sprinkles_textAlign_start_xs__omrdfn21c.sprinkles_lineHeight_default__omrdfn2hm.text_text__1wf9vowb.text_text_variant_medium__1wf9vowj.text_text_bold_false__1wf9vowm.text_text_italic_false__1wf9vowo.sprinkles_wordBreak_inherit__omrdfn2gl.text_text_truncate_false__1wf9vowu.knox-reset
+amazon.co.jp##.maple-banner
+auctions.yahoo.co.jp##.LayoutFooter-sc-c9dik0.bTdtbl
+auctions.yahoo.co.jp##.Body-sc-551c7k.emIMWE
+auctions.yahoo.co.jp##.Header-sc-v7pfhw.brMqYm
+auctions.yahoo.co.jp##.Component-sc-1ew1ere.hUqGuk
+auctions.yahoo.co.jp##.p_\7b spacing\.2\7d _\7b spacing\.4\7d _\7b spacing\.3\7d .md\:p_\7b spacing\.2\7d _\7b spacing\.4\7d _\7b spacing\.0\7d .md\:mb_3
+auctions.yahoo.co.jp###footer
+yahoo.co.jp##.QoCp7KDEt29FbN5hCjsCx
+login.paypay-bank.co.jp##.faq
+login.paypay-bank.co.jp##.loginNote.contents
+||radiko.jp/res/feed/Cfu8YXTYdV_lUzQ.jpg
+dmm.co.jp##._n4v1-header-iframe-cross-section-banner
+
+
+
